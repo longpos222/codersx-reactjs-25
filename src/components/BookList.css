@@ -1,0 +1,16 @@
+.book-list {
+  padding: 16px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.ant-table-wrapper {
+  margin-top: 20px;
+}
+
+.book-list img {
+  width: 70px;
+  height: auto;
+}
